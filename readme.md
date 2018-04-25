@@ -1,8 +1,8 @@
 # Simple Firebase webhook for send browser notification
 
-###This webhook tracks the change data in the notification table and sends notification to users on their device id
+##This webhook tracks the change data in the notification table and sends notification to users on their device id
 
-##Create firebase project
+###Create firebase project
 
 - Create project in 'https://console.firebase.google.com/'
 - Install global firebase cli
@@ -28,7 +28,9 @@
         }
     }
 ```
-##Deploy function
+
+###Deploy function
+
 - Clone repo
 ```sh
     git clone https://github.com/santaz1995/firebase-webhooks-notification.git
